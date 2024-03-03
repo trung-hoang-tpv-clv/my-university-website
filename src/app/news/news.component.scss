@@ -1,0 +1,13 @@
+.event-item, .news-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  background-color: white;
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.event-item img, .news-item img {
+  width: 100px; /* Adjust as needed */
+  height: auto;
+  margin-right: 20px;
+}
